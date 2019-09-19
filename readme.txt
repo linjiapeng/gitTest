@@ -6,4 +6,8 @@ long!!!!
 bye! bye!
 main main !!!
 Hello mm!!!!
-boby boby !!!s
+boby boby !!!
+
+welcome to Android!!!
+Hello GreenDao!!!
+Hello retorfit!!!!
